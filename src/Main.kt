@@ -1,7 +1,6 @@
 
 fun main(args: Array<String>){
     var temp: Int
-    var swapped: Boolean
     val simpleArray = arrayOf(8,5,7,5,6,4)
 
     for (i in 0 until simpleArray.size-1) {
