@@ -1,6 +1,14 @@
-# 🗳️ Projeto Votos
+# 🔄 Teste 2 - Bubble Sort
 
-Este projeto calcula os percentuais de votos **válidos, brancos e nulos** em relação ao total de eleitores, utilizando **Kotlin** e programação orientada a objetos.
+Este teste consiste em implementar o **algoritmo de ordenação Bubble Sort**, que organiza os elementos de um vetor em ordem crescente.
+
+---
+
+## 📋 Requisitos
+
+- Implementar o algoritmo Bubble Sort em **Kotlin** (ou linguagem solicitada).
+- Ordenar corretamente um vetor de inteiros.
+- Exibir o vetor antes e depois da ordenação.
 
 ---
 
